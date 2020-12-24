@@ -1,2 +1,2 @@
-import Projects from './Education';
+import Projects from './Projects';
 export default Projects;

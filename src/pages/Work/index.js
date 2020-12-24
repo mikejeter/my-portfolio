@@ -1,2 +1,2 @@
-import Work from './Education';
+import Work from './Work';
 export default Work;

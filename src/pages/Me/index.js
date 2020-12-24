@@ -1,2 +1,2 @@
-import Me from './Education';
+import Me from './Me';
 export default Me;
